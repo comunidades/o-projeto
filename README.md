@@ -31,4 +31,4 @@ Também estamos em busca de core contributors pra focarem em algumas roles no mo
 - 1 front-end developer.
 - 1 designer
 
-Se você quiser colocar algum tempo nesse projeto pra fazer essa idéia acontecer, me manda um email em me@biancarosa.com.br.
+Se você quiser colocar algum tempo nesse projeto (independente desses papeis!) pra fazer essa idéia acontecer, me manda um email em me@biancarosa.com.br.
